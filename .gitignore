@@ -1,0 +1,14 @@
+.exe
+.vcxproj
+.suo
+.project
+.user
+.bak
+.swp
+*.exe
+*.o
+*.out
+*.a
+*.obj
+build/
+bin/
